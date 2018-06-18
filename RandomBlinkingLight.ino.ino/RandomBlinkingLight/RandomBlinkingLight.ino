@@ -4,7 +4,7 @@ int previousInt = 0;
 
 
 // The amount of time that the LEDs will delay turning on and off
-int delayTime = 400;
+int delayTime = 233;
 
 void setup()
 {
